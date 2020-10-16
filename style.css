@@ -129,6 +129,16 @@ a.nav-link{
 	text-shadow: 0px 0px 40px var(--main-decor-color);
 }
 
+h2{
+	padding-bottom: 15px;
+    letter-spacing: normal;
+    font-family: var(--main-font-family);
+	font-style: normal;
+	font-size: 25px;
+	color: var(--main-fonts-color);
+	text-shadow: 0px 0px 20px var(--main-decor-color);
+}
+
 
 /*──────────────────
     social media
@@ -204,6 +214,9 @@ a.nav-link{
 }
 #projects h3{
     padding-top: 70px;
+}
+#projects h2{
+    padding-top: 0px;
 }
 #projects p{
 	font-family: var(--main-font-family);
