@@ -21,6 +21,10 @@ main{
 	background: var(--main-background);
 }
 
+a{
+  color: var(--main-decor-color);
+}
+
 /*────────────────── 
        header
 ──────────────────*/
