@@ -23,6 +23,7 @@ main{
 
 a{
   color: var(--main-decor-color);
+  text-decoration: none;
 }
 
 /*────────────────── 
@@ -97,7 +98,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('https://images.unsplash.com/photo-1544099858-75feeb57f01b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80') no-repeat;
+	background: url('https://cdn.allwallpaper.in/wallpapers/2560x1600/7031/map-simple-background-pixel-ambient-light-smooth-2560x1600-wallpaper.jpg') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
