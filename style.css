@@ -98,7 +98,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('https://cdn.allwallpaper.in/wallpapers/2560x1600/7031/map-simple-background-pixel-ambient-light-smooth-2560x1600-wallpaper.jpg') no-repeat;
+	background: url('https://c4.wallpaperflare.com/wallpaper/810/211/721/purple-violet-css-code-wallpaper-preview.jpg') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
@@ -242,8 +242,8 @@ h2{
 	display: flex;
 	flex-direction: column;
 	margin: 20px;
-	width: 250px;
-	height:300px;
+	width: 25%;
+	height: 25%;
 	border-radius:12px;
     background:var(--main-decor-color);
 }
